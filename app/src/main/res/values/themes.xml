@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.SKAdBlocker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#08111F</item>
+        <item name="android:navigationBarColor">#08111F</item>
+        <item name="android:windowBackground">#08111F</item>
+        <item name="colorPrimary">#61F2C2</item>
+        <item name="colorOnPrimary">#08111F</item>
+        <item name="android:colorAccent">#61F2C2</item>
+    </style>
+</resources>
